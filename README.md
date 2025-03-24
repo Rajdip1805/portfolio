@@ -10,16 +10,6 @@ A personal portfolio website showcasing my skills, projects, education, and cont
 - Framer Motion
 - Vite
 
-## Features
-
-- Responsive design for all device sizes
-- Animated UI elements with Framer Motion
-- Dark/Light mode compatibility
-- Interactive project cards with hover effects
-- Skill showcase with categorization
-- Contact form with validation
-- GitHub Actions for automatic deployment
-
 ## Visit the Live Site
 
 [View Portfolio](https://rajdip1805.github.io/portfolio/)
