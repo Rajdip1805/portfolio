@@ -59,7 +59,7 @@ const certificates: Certificate[] = [
     institute: 'Hackerrank',
     name: 'SQL',
     logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png',
-    link: 'https://www.hackerrank.com/certificates/8a0d36a24697'
+    link: 'https://www.hackerrank.com/certificates/6f33b8c8ce3d'
   },
   {
     institute: 'Great Learning',
