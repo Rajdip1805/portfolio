@@ -4,6 +4,7 @@ import { Sun, Moon } from 'lucide-react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
+import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
 import Education from './components/Education';
@@ -32,6 +33,7 @@ function App() {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16">
         <div id="home"><Hero /></div>
         <div id="about"><About /></div>
+        <div id="experience"><Experience /></div>
         <div id="projects"><Projects /></div>
         <div id="skills"><Skills /></div>
         <div id="education"><Education /></div>
